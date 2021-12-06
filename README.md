@@ -1,4 +1,4 @@
-# HypothyoidismPrediction
+# HypothyroidismPrediction
 This is an independent project that was completed as part of the Moringa Data Science Curriculum
 
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:  
